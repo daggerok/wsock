@@ -1,0 +1,11 @@
+**/.idea/
+**/.gradle/
+**/build/
+**/classes/
+*/gradle/
+**/node_modules/
+**/bower_components/
+**/*.iml
+**/*.ipr
+**/*.iws
+**/*.log*

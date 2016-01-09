@@ -1,0 +1,21 @@
+{
+  "name": "wsock",
+  "description": "wsock",
+  "main": "sockjs-client",
+  "authors": [
+    "Maksim Kostromin <daggerok@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sockjs-client": "~1.0.3"
+  }
+}
