@@ -49,7 +49,7 @@ node {
 }
 
 task npm(type: NpmTask, dependsOn: npmInstall) {
-	args = ['start']
+	args = ["start"]
 }
 
 build.dependsOn npm
