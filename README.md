@@ -1,4 +1,4 @@
-websock [![build](https://travis-ci.org/daggerok/websock.svg?branch=master)](https://travis-ci.org/daggerok/websock)
+websock [![build](https://travis-ci.org/daggerok/wsock.svg?branch=master)](https://travis-ci.org/daggerok/wsock)
 =======
 
 **tags**
