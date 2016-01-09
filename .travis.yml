@@ -10,7 +10,7 @@ before_install:
   - export DISPLAY=:99.0
   - sh -e /etc/init.d/xvfb start
 script:
-  - ./gradle build
+  - ./gradlew build
 notifications:
   on_failure: change # always|never
   on_success: change
