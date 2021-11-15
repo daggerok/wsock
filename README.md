@@ -14,3 +14,11 @@ $ gradle bootRun
 ```
 
 goto http://localhost:8080/
+
+## other repos
+
+* https://github.com/daggerok/spring-websocket-stomp
+* https://github.com/daggerok/spring-boot-rest-jms-activemq
+* https://github.com/daggerok/spring-streaming
+* https://github.com/daggerok/sockjs-stomp-websocket-react-and-vanilla
+* https://github.com/daggerok/spring-security-rest-auth-token
